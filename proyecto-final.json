@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "proyecto-final-398309",
+  "private_key_id": "52c1ef6cc9c4c9cc3186e247a83b0a854a821aea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDoluZjfcQelpT8\nlnoyQ35a27hLLvj8RKgr1PAO0yRaufpxxtUdsQYVyl4LATnpCQG4D9AQe9NiQXOY\n62RDfNK+9z1nvp9oyC7LC10Jxy9UbWvBbTCyToE95GvnseblRwe4mULw13+XKE8H\nr3iTOoHtMg2Wr4kq2sx49/dq6/7BzoCTX4QmfP2e4u9lENDhY5JG6uvEEIWTYdDn\nDsjGB4DiC8plm6v7BBOHT/M0zAr7/Vze1dhqt9VUZDmSbe2jResWiSC991IVhlVC\n9YKUj+1ttvZcKJivssCwxKyE+zEMbcw/kF3jxEw/c4mUb0CjjJXFuXHtoxA9/QzO\nMkYY+YPfAgMBAAECggEAPvy+n6rrda0p482MghgtG8Xs/s9VtluRf21HJXygl8FN\nxYonJMdP8o6/MRO/7w/1WzdNDWm7MRywhXUZzfz7xaOHCZVh7ipoIayOIZvDgYWw\nbM15JpCEB5LYdgKDmQvHV4KJ0ldJwlG0NUybxqNNlEK901TuPKDMRuZAJsCKWUli\n4ABOj6S2aEdnlLTKQho6iNK38DSDC6SNMHADh+buIN35+RHPztE3aXUF5ARiYBPS\n+bp4OqlgmGYD1PJXdm3730IdTrdHzE2AWKb1vMLxbW3xoIwrco+y78VVA3YManMq\nvBC0+Td2iEgo8yHi5KYaby/ojZgK3x7sDnegs9wSYQKBgQD9EGzPOpEOrKUrtV63\ns2CxRupN5w0JjErJqHoAJ6GQz8geN5aVLJBA084u5MktpfPNFfcA7rD8xKOHJIG7\nOPdt9y9ZlmCxspFqk/RYIRwj7wFlXVXKvXqzpwepvWKhE1N+t9iwhSDGMgGDzc5j\nuFYRux524gOqZqV5bq+XWfxEjQKBgQDrSarHnbIIuOwgLCRaRwtoqJLsooCybvMh\nBUVkvz/xsJUZacv07fClfHVBjpRIh5/uyeNfHOtkn5Tm4/8OziibR6bpArY1P/lK\n1TWxaE6ZUBlz8CSAxDB4l5xJGbY4YeLIFsFpuLJpuiZ62kMToueZmfKgJsoHZ2J+\nAVqnMfetGwKBgFT/O0yvIyGGo0N2+4U/3m4sn23i+OIIGOZ6i9+ZcA6ve0uK6Cza\ndukPOuVNOrT2VFjB0+CgSxnbAgHWJSy5CYIJ0AGLHJcSnvzpDNy84jK/h/x/yNz7\nn0bQBybf0UzArP6WyVUgoc1v5kpaycN8mowCCU1sxEZri5CpuJhhRPXRAoGAYqLF\nV12CjymGw439x2LVI5DX1x/gt+zPO96L0spiMh4Gw1qYyBsfsSBVv5/YBfflUiOM\nkAj9nXdQ4uJdwIUofMAy9qfOXtBs37Q2CCNkH912biYUB283qrZULEj9HPHcMmln\nt7xX/v6stv/c8tRuJvRkxEK+mw/6ODy1FjZaUFUCgYEAoKhWMAu1avNoVU6qDRDd\nhVxwImb+/FKuOfSV8cHDFBbxNXBn94hHxX8UGOTwkJ41nFmJKjVxywmyav7oPuWR\nHTpaAvv854q0fojsnd6UFU6/wNikVvY3n9LVILX0Zg8UydLuVtNes5cvGeD9IcQ+\nBNxaF4ohIubeXhwN/HS7R9Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "champions-league-project@proyecto-final-398309.iam.gserviceaccount.com",
+  "client_id": "105109991530289531166",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/champions-league-project%40proyecto-final-398309.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
